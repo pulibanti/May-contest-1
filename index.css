@@ -1,0 +1,40 @@
+* {
+  font-family: "inter";
+}
+body {
+  margin: 40px;
+}
+.section-1 {
+  font-size: 35px;
+  padding: 30px;
+  font-style: normal;
+  border: 2px solid black;
+}
+.section-1 p {
+  margin-top: 10px;
+}
+.section-1 h1 {
+  margin-bottom: 20px;
+}
+.section-1 a {
+  color: black;
+}
+.section-2 h1 {
+  font-size: 40px;
+}
+.section-2 a {
+  font-size: 35px;
+  color: black;
+}
+.section-2 img {
+  padding-bottom: 20px;
+}
+.section-3 h1 {
+  font-size: 35px;
+}
+.section-3 li {
+  font-size: 35px;
+}
+.section-3 {
+  margin-top: 40px;
+}
